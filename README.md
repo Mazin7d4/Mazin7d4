@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:0f2027&height=260&section=header&text=MAZIN&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Native%20Full-Stack%20Engineer&descAlignY=55&descSize=22" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Shipping+production-grade+apps%2C+not+just+demos;AI-DLC+%7C+Agentic+%2F+AI-native+development+workflows;Hackathon+builder+%E2%80%94+0+to+working+product%2C+fast;Deep+Learning+%2F+ML+%2F+NLP+from+first+principles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Production+apps+from+zero+to+deploy;AI-DLC+%7C+Agentic+development+workflows;Hackathon+builder+%E2%80%93+fast+prototyping%2C+real+products;Deep+Learning+%2F+ML+%2F+NLP" alt="Typing SVG" />
 
 <br/>
 
@@ -13,26 +13,26 @@
 
 <br/>
 
-## 🧭 What I Actually Do
+## 🧭 What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 AI-DLC & Agentic Engineering
-I build software using the **AI Development Lifecycle** — orchestrating AI agents across planning, implementation, and review instead of hand-writing every line. I design workflows where AI agents are treated as engineering collaborators with real accountability, not autocomplete.
+I use the AI Development Lifecycle as my core workflow. AI agents handle planning, implementation, and code review as real collaborators in the process. I spend my time designing those agent workflows and making sure the output is actually production-ready.
 
-### 🏗️ Production-Grade Full-Stack
-I don't stop at "it works on my machine." I ship apps end-to-end — auth, databases, deployment pipelines, error handling, and monitoring — the parts that separate a demo from a real product.
+### 🏗️ Full-Stack, Production-Ready
+I build and ship complete apps: auth, databases, deployment pipelines, monitoring, error handling. If it needs to run reliably in production, I've probably dealt with it.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏆 Hackathons
-I build under pressure. Give me a weekend and a problem statement, and I'll walk out with a working, demoable product — not just slides.
+I like building under time pressure. Give me a weekend and a problem, I'll have a working product by Sunday. I've competed in multiple hackathons and treat every one as a chance to ship something real.
 
 ### 🧠 Deep Learning / ML / NLP
-Comfortable going below the framework layer — implementing algorithms from scratch, fine-tuning models, and building NLP pipelines, not just calling an API.
+I work with ML at the implementation level. I've built algorithms from scratch, fine-tuned models, and put together NLP pipelines. Comfortable with PyTorch, scikit-learn, and the math behind the models.
 
 </td>
 </tr>
@@ -65,26 +65,52 @@ Comfortable going below the framework layer — implementing algorithms from scr
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
+<a href="https://github.com/Mazin7d4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Mazin7d4&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mazin7d4&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mazin7d4&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mazin7d4&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  </picture>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mazin7d4&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazin7d4&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=Mazin7d4&theme=tokyonight&hide_border=true" width="100%"/>
+<a href="https://github.com/Mazin7d4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mazin7d4&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=Mazin7d4&theme=tokyonight&hide_border=true" width="100%"/>
+  </picture>
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mazin7d4&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<br/>
+
+<a href="https://github.com/Mazin7d4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mazin7d4&theme=tokyo-night&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mazin7d4&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  </picture>
+</a>
 
 </div>
 
 <br/>
 
-## 🏆 Trophies
+## 🎖️ GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mazin7d4&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+| Badge | Achievement |
+|:---:|:---|
+| <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60"/> | **YOLO** - Merged a PR without code review |
+| <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60"/> | **Pull Shark** - Opened pull requests that got merged |
+| <img src="https://github.githubassets.com/assets/galaxy-brain-default-b6c2364eb36e.png" width="60"/> | **Galaxy Brain** - Answered discussions with accepted answers |
+| <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-d2011b0106d6.png" width="60"/> | **Pair Extraordinaire** - Co-authored commits on merged PRs |
 
 </div>
 

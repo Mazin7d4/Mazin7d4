@@ -1,4 +1,4 @@
-I build and ship AI-powered apps fast with coding agents.
+I build and ship apps
 
 ## Paint Studio
 
